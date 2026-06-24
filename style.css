@@ -1,0 +1,136 @@
+*
+{
+    margin: 0%;
+    font-family: sans-serif;
+}
+.header{
+    width:100%;
+    height:40px;
+    
+    position: fixed;
+
+    z-index: 2;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    top: 20px;
+
+}
+.fort
+{
+    display: flex;
+    gap:20px;
+    text-align: center;
+    font-size: 11px;
+    padding-top: 11px;
+    color: rgba(150, 153, 153, 1);
+}
+.img1 img {
+    width:80px;
+    height:25px;
+    padding-top: 5px;
+}
+.hm{
+    color: rgba(53, 175, 191, 1);
+    border-bottom: 1px solid rgba(53, 175, 191, 1);
+    width:30px;
+    height:20px;
+}
+.header button {
+    border: none;
+    background-color: rgba(53, 175, 191, 1);
+    width:80px;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+.biggie{
+   
+    width:90%;
+    height:300px;
+   
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin: auto;
+     margin-top: 100px;
+
+    
+}
+.fort1{
+    width:200px;
+    height:300px;
+  
+    line-height: 20px;
+}
+.fort1 h2{
+    font-size: 20px;
+    line-height: 25px;
+}
+.fort1 p{
+    font-size: 10px;
+    margin-top: 15px;
+}
+.fort1 span {
+    color: rgba(53, 175, 191, 1) ;
+}
+.imgg1 {
+    width:320px;
+    height:300px;
+    position: absolute;
+    right: 100px;
+    
+}
+.imgg2{
+    width:410px;
+    height:300px;
+    position: absolute;
+   
+   
+}
+.imgg3{
+    width:30px;
+   position: absolute;
+  
+  
+
+    
+}
+.imgg4{
+    width:30px;
+    position: absolute;
+    right: 30px;
+    position: relative;
+    top:260px;
+   left:20px;
+   
+}
+
+.imgg5{
+    width:30px;
+    position: relative;
+    left:320px;
+}
+
+.imgg6{
+    width:30px;
+    position: relative;
+    left: 290px;
+    top:280px;
+}
+.position{
+    width:400px;
+    height:300px;
+    
+}
+.get {
+    background-color: rgba(53, 175, 191, 1);
+    width:100px;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+
+
+
