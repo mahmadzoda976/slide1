@@ -13,7 +13,8 @@
     display: flex;
     justify-content: space-around;
     margin: auto;
-    top: 20px;
+    top: 0;
+    background-color: white;
 
 }
 .fort
@@ -271,6 +272,153 @@ justify-content: center;
     margin-top: 60px;
     width: 60px;
 }
+.footer{
+   
+    width:100%;
+    height:400px;
+    background-color: rgba(44, 53, 62, 1) ;
+    padding-top: 50px;
+}
+.forln{
+    
+    width:700px;
+    height:200px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+   
+}
+.line1{
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+
+.line1 span{
+    font-size: 20px;
+}
+.sub{
+    width:90px;
+    margin-top: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.line1 h5{
+color: white;
+font-size: 20px;
+}
+
+
+.line2 span{
+    font-size: 20px;
+}
+.sub{
+    width:90px;
+    margin-top: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.line2 h5{
+color: white;
+font-size: 20px;
+}
+.line2{
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+
+
+.line3 span{
+    font-size: 20px;
+}
+.sub{
+    width:90px;
+    margin-top: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.line3 h5{
+color: white;
+font-size: 20px;
+}
+.line3{
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+
+
+
+.line4 span{
+    font-size: 20px;
+}
+.sub{
+    width:90px;
+    margin-top: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.line4 h5{
+color: white;
+font-size: 20px;
+}
+.line4{
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+.hr{
+    margin: auto;
+    margin-top: 40px;
+    width:750px;
+    
+}
+.last {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.lim{
+    width:100px;
+}
+.tttx{
+    display: flex;
+    font-size: 10px;
+    color:rgba(255, 255, 255, 1);
+    gap:35px;
+}
+.lastp{
+    font-size: 10px;
+    color:grey;
+    padding-left: 110px;
+    margin-top: 30px;
+}
+
 
 
 
